@@ -3,6 +3,8 @@
   color: rgb(20,232,30);
   border-color: rgb(20,232,30);
   font-family: 'Reem Kufi', sans-serif;
+  position: fixed;
+  width: 100%;
 }
 .navbar-default .navbar-brand {
     color: rgb(20,232,30);
