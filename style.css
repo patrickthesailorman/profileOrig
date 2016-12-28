@@ -1,0 +1,82 @@
+.navbar{
+  background-color: black;
+  color: rgb(20,232,30);
+  border-color: rgb(20,232,30);
+  font-family: 'Reem Kufi', sans-serif;
+}
+.navbar-default .navbar-brand {
+    color: rgb(20,232,30);
+    font-family: 'Reem Kufi', sans-serif;
+}
+.navbar-default .navbar-nav>li>a {
+    color: rgb(20,232,30);
+    font-family: 'Reem Kufi', sans-serif;
+
+}
+body{
+    background:black;
+}
+h1{
+  color: rgb(0,234,141);
+  font-family: 'Reem Kufi', sans-serif;
+}
+.pageOne {
+  background: url("images/stars.jpg");
+  background-size: cover;
+}
+.pageTwo{
+  background: url("images/jelly.jpg");
+  background-size: cover;
+  background-position: center;
+  height:1000px;
+}
+.pageThree{
+  background: url("images/aurora.jpg");
+  background-size: cover;
+  background-position: center;
+  height:1000px;
+}
+.pageFour{
+  background: url("images/caribe.jpg");
+  background-size: cover;
+  background-position: center;
+  height:1000px;
+}
+.row{
+  margin-top:15%;
+  font-family: 'Reem Kufi', sans-serif;
+}
+.white-bg{
+  font-family: 'Reem Kufi', sans-serif;
+  background-color: rgba(255, 255, 255, 0.4);
+  border-radius: 10px;
+  padding: 10px;
+}
+.jumbotron{
+  font-family: 'Reem Kufi', sans-serif;
+  text-align: center;
+  margin-top: 15%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+  width:60%;
+  background-color: rgba(255, 255, 255, 0.1);
+  color: rgb(1,126,213);
+}
+.btn-default {
+  font-family: 'Reem Kufi', sans-serif;
+  background-color: black;
+  border-color: green;
+  color: green;
+}
+.block{
+  font-family: 'Reem Kufi', sans-serif;
+  text-align: center;
+  margin-top: 15%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+  width:60%;
+  background-color: rgba(255, 255, 255, 0.1);
+  color: rgb(20,232,30);
+}
