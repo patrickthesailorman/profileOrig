@@ -26,7 +26,6 @@ h1{
 .pageOne {
   background: url("images/stars.jpg");
   background-size: cover;
-  height: 1000px;
 }
 .pageTwo{
   background: url("images/jelly.jpg");
