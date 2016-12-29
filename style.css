@@ -3,6 +3,8 @@
   color: rgb(20,232,30);
   border-color: rgb(20,232,30);
   font-family: 'Reem Kufi', sans-serif;
+  position: fixed;
+  width: 100%;
 }
 .navbar-default .navbar-brand {
     color: rgb(20,232,30);
@@ -20,6 +22,7 @@ h1{
   color: rgb(0,234,141);
   font-family: 'Reem Kufi', sans-serif;
 }
+
 #container {
    width: 175px;
    height: 175px;
@@ -31,6 +34,9 @@ h1{
    /*content:url("images/selfie.jpg");*/
    width: 100%;
    border-radius: 25px;
+}
+#block2 >h1{
+  color:rgb(181,61,255);
 }
 .pageOne {
   background: url("images/stars.jpg");
@@ -65,6 +71,7 @@ h1{
   border-radius: 10px;
   padding: 10px;
 }
+
 .jumbotron{
   font-family: 'Reem Kufi', sans-serif;
   text-align: center;
