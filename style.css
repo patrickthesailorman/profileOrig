@@ -20,9 +20,22 @@ h1{
   color: rgb(0,234,141);
   font-family: 'Reem Kufi', sans-serif;
 }
+#container {
+   width: 175px;
+   height: 175px;
+   position: fixed;
+   left: 0;
+   bottom: 0;
+}
+#container img {
+   /*content:url("images/selfie.jpg");*/
+   width: 100%;
+   border-radius: 25px;
+}
 .pageOne {
   background: url("images/stars.jpg");
   background-size: cover;
+  background-position: center;
 }
 .pageTwo{
   background: url("images/jelly.jpg");
@@ -43,7 +56,7 @@ h1{
   height:1000px;
 }
 .row{
-  margin-top:15%;
+  margin-top:25%;
   font-family: 'Reem Kufi', sans-serif;
 }
 .white-bg{
