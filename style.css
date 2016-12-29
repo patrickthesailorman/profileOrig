@@ -118,7 +118,7 @@ html, body {
 
 h2 {
    text-align: left;
-   color: #00ea8d;
+   color: #8d00c4;
    @include text-shadow(1px 1px 0 rgba(white, 1));
 }
 
