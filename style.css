@@ -99,3 +99,7 @@ h1{
   background-color: rgba(255, 255, 255, 0.1);
   color: rgb(20,232,30);
 }
+.skills {
+  color: green;
+  margin-left: 4%;
+}
