@@ -116,12 +116,6 @@ html, body {
   padding: 1em;
 }
 
-h2 {
-   text-align: left;
-   color: #8d00c4;
-   @include text-shadow(1px 1px 0 rgba(white, 1));
-}
-
 form {
    max-width: 500px;
    text-align: left;
