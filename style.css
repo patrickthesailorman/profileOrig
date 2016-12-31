@@ -5,6 +5,7 @@
   font-family: 'Reem Kufi', sans-serif;
   position: fixed;
   width: 100%;
+  z-index: 1;
 }
 .navbar-default .navbar-brand {
     color: rgb(20,232,30);
@@ -28,6 +29,7 @@ h1{
    position: fixed;
    left: 0;
    bottom: 0;
+   z-index: 1;
 }
 #container img {
    /*content:url("images/selfie.jpg");*/
