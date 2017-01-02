@@ -39,6 +39,19 @@ h1{
 #block2 >h1{
   color:rgb(181,61,255);
 }
+#block2 >h3{
+  color:  #0975d9;
+  margin-left: 1%;
+}
+#block2 >h4{
+  color:  #00e4fa;
+  margin-left: 4%;
+}
+#block2 >p{
+  margin-left: 2%;
+  margin-right: 20%;
+  font-size: larger;
+}
 .pageOne {
   background: url("images/stars.jpg");
   background-size: cover;
@@ -82,7 +95,13 @@ h1{
   padding: 5px;
   width:60%;
   background-color: rgba(255, 255, 255, 0.1);
-  color: rgb(1,126,213);
+  color: rgb(0, 251, 251);
+}
+.jumbotron >h3{
+  color:#00dafa;
+}
+.jumbotron >p{
+   color:#bfb0f9;
 }
 .btn-default {
   font-family: 'Reem Kufi', sans-serif;
@@ -102,6 +121,6 @@ h1{
   color: rgb(20,232,30);
 }
 .skills {
-  color: green;
+  color: #c1b3f9;
   margin-left: 2%;
 }
