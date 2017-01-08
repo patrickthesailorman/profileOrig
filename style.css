@@ -131,3 +131,17 @@ h1{
   color: #c1b3f9;
   margin-left: 2%;
 }
+
+#block3 >a  {
+    color:green;
+    background-color:transparent;
+    text-decoration:none
+  }
+  #block3 >a:hover {
+    color:red;
+    background-color:transparent;
+    text-decoration:underline
+  }
+  #block3 >h3 {
+    color: purple;
+  }
