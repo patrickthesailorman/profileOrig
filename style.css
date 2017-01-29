@@ -136,9 +136,10 @@ h1{
 }
 
 #block3 >a  {
-    color:green;
+    color: #92ea22;
     background-color:transparent;
-    text-decoration:none
+    text-decoration: blink;
+    font: x-large;
   }
   #block3 >a:hover {
     color:red;
