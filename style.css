@@ -138,8 +138,9 @@ h1{
 #block3 >a  {
     color: #92ea22;
     background-color:transparent;
-    text-decoration: blink;
+    text-decoration: none;;
     font: x-large;
+    margin-: 5%;
   }
   #block3 >a:hover {
     color:red;
