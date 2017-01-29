@@ -59,6 +59,9 @@ h1{
   margin-left: auto;
   margin-right: auto;
 }
+#myCard img {
+  width: 25%;
+}
 .pageOne {
   background: url("images/stars.jpg");
   background-size: cover;
