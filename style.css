@@ -86,6 +86,9 @@ h1{
   background-position: center;
   height:1000px;
 }
+.pageFour a {
+  margin-left: 3%;
+}
 .row{
   margin-top:25%;
   font-family: 'Reem Kufi', sans-serif;
