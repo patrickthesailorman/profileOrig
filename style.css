@@ -38,12 +38,12 @@ h1{
    border-radius: 25px;
 }
 #block2 >h1{
-  margin-left: 5%;
+  margin-left: 15%;
   color:rgb(100, 17, 152);
 }
 #block2 >h3{
   color:  #0119e2;
-  margin-left: 10%;
+  margin-left: 19%;
 }
 #block2 >h4{
   color:  #562e88;
@@ -92,12 +92,15 @@ h1{
 .row{
   margin-top:25%;
   font-family: 'Reem Kufi', sans-serif;
+  margin-left: 12%;
+  max-width: 1000px;
 }
 .white-bg{
   font-family: 'Reem Kufi', sans-serif;
   background-color: rgba(255, 255, 255, 0.4);
   border-radius: 10px;
   padding: 10px;
+
 }
 
 .jumbotron{
@@ -139,12 +142,16 @@ h1{
   margin-left: 2%;
 }
 
+#block3 >h1 {
+  color: rgb(0,234,141);
+  margin-left: 12%;
+}
 #block3 >a  {
     color: #92ea22;
     background-color:transparent;
     text-decoration: none;;
     font: x-large;
-    margin-left: 5%;
+    margin-left: 15%;
   }
   #block3 >a:hover {
     color:red;
@@ -153,7 +160,16 @@ h1{
   }
   #block3 >h3 {
     color: purple;
+    margin-left: 12%;
+  }
+  #block3 >div {
+    background-color: rgba(255, 255, 255, 0.1);
+    margin-left: 12%;
+    max-width: 900px;
   }
   div.skills.devicon span i {
     font-size: 5rem;
   }
+#block4 {
+  margin-left: 12%;
+}
